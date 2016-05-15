@@ -1,13 +1,9 @@
 __author__ = 'root'
 
-for x in range(1,101):
-    if x%3==0:
-        if x%5==0:
-            print("FizzBuzz")
-        else:
-            print("Fizz")
-    else:
-        if x%5==0:
-            print("Buzz")
-        else:
-            print(x);
+sum_all = 0
+
+for x in range(0, 1000):
+    if x%3==0 or x%5==0:
+        sum_all+=x
+
+print(sum_all)
