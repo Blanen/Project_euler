@@ -1,6 +1,6 @@
 __author__ = 'root'
 
-"""Iterative fibonacci function where the parameter is the maximum number and return the sum of all the even number of
+"""Iterative fibonacci function where the parameter is the maximum number and returns the sum of all the even number of
 the numbers up till then.
 You might ask, why not recursive? Because it was slow and I had to look up that you needed to make do tail call
 optimalization and if I did that, I would have felt like cheating."""

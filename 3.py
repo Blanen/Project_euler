@@ -26,7 +26,7 @@ def set_highest_prime(number):
     if number>2:
         highest_prime = number
 
-#Curenny remainder
+#Curennt remainder
 remainder = None
 
 #Recursively get the prime factors
