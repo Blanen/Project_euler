@@ -1,5 +1,5 @@
 __author__ = 'root'
-"""An inefficient working solution. I think of a more efficient solution with prime trees..."""
+"""An inefficient working solution. I can think of a more efficient solution with prime trees... But, would have to spend more time on it"""
 
 i = 0
 found = 0
